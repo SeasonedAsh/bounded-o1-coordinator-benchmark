@@ -8,6 +8,7 @@ The goal is to explore whether a minimal scheduler—designed so that state
 transitions do not accumulate complexity—can maintain stable latency and memory
 behavior under extreme load.
 
+https://news.ycombinator.com/item?id=46232971
 ---
 
 ## 📄 Benchmark Artifact
