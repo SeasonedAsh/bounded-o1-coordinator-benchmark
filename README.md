@@ -12,5 +12,5 @@ behavior under extreme load.
 
 ## 📄 Benchmark Artifact
 
-The complete JSON output for the 100,000,000-cycle benchmark:
+The complete JSON output for the 100,000,000-cycle benchmark: results/coordinator-1765466509579.json
 
