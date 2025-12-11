@@ -1,0 +1,27 @@
+{
+  "config": {
+    "cycles": 100000000,
+    "mode": "mixed",
+    "timestamp": "2025-12-11T15:21:10.095Z"
+  },
+  "metrics": {
+    "totalCycles": 100000000,
+    "avgCycleLatency": 0.00016892483599974177,
+    "p50Latency": 0.00019999999858555384,
+    "p95Latency": 0.00020000000222353265,
+    "p99Latency": 0.00029999999969732016,
+    "patternsDetected": 1370506,
+    "overloadDetections": 0,
+    "cyclesPerSecond": 2533436.414131943,
+    "memoryStart": 5.341033935546875,
+    "memoryEnd": 8.755950927734375
+  },
+  "patternBreakdown": {
+    "GROW_CACHE": 4078,
+    "SLOW_WANDERER": 0,
+    "SPEED_TEACHER": 0,
+    "SYSTEM_IDLE": 2,
+    "SYSTEM_ACTIVE": 1366426,
+    "OVERLOAD": 0
+  }
+}
